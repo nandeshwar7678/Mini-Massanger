@@ -1,0 +1,16 @@
+body{
+    margin:20px;
+}
+.chat{
+    background-color: aliceblue;
+    border-radius: 16px;
+    display: inline-block;
+    
+}
+.massage{
+    background-color: blueviolet;
+    color:white;
+    padding:15px;
+    border-radius: 20px;
+    margin:4px;
+}
